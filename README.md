@@ -1,3 +1,8 @@
+**I have some isues regarding the xml File 
+XML file only contains novel name when i convert into epub
+**
+what can be solution
+
 # Yonder Extract
 ## Preamble
 At the end of January 2025, the YONDER platform/app announced that they would be discontinued, leaving until July 31, 2025 before access to the service and all content is gone. 
